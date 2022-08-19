@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "civilization",
+  "description": "civil",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -17,12 +17,12 @@
     },
     "WS_PATH": {
       "description": "websocket路径",
-      "value": "/ray",
+      "value": "/pay",
       "required": true
     }
   },
-  "website": "https://github.com/rugkyrolrgy/heroku-v2ray",
-  "repository": "https://github.com/rugkyrolrgy/heroku-v2ray",
+  "website": "https://github.com/muxiao0001/pt",
+  "repository": "",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
